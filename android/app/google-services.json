@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "460022449022",
+    "project_id": "carryvibe-efood",
+    "storage_bucket": "carryvibe-efood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460022449022:android:0b5951b91ad6824383692f",
+        "android_client_info": {
+          "package_name": "com.u6amtech.flutter_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460022449022-tin7tsabgtgd6s90r06osf811l88iu1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.u6amtech.flutter_restaurant",
+            "certificate_hash": "dbcc42cbc5febae0188f86f022b7518a1b7de30d"
+          }
+        },
+        {
+          "client_id": "460022449022-90hha6j7vehn2j8qst5mf0ksoa3dnqjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlRX6egTGnMZ0O69Mjs9LYipZDQqcy3zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460022449022-90hha6j7vehn2j8qst5mf0ksoa3dnqjs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460022449022-fghhq8ush0guob0ggeu3ptja4fj0ihlj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.eFood"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460022449022:android:a67a5724089e046183692f",
+        "android_client_info": {
+          "package_name": "com.u6amtech.restaurant_delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460022449022-90hha6j7vehn2j8qst5mf0ksoa3dnqjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlRX6egTGnMZ0O69Mjs9LYipZDQqcy3zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460022449022-90hha6j7vehn2j8qst5mf0ksoa3dnqjs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460022449022-fghhq8ush0guob0ggeu3ptja4fj0ihlj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sixamtech.eFood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
